@@ -1,0 +1,7 @@
+2 pizza plain pepperoni
+
+customer can order pizza and inspect the topping
+
+2 pizza chefs, can only make 1 type each -> to 1 chef make many type pizza
+
+make Customer order more flexiable
